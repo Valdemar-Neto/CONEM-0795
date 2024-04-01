@@ -40,9 +40,6 @@ def calcular_frequencia_fundamental(aceleracao, taxa_amostragem):
 
     return f0
 
-# Exemplo de uso
-# Suponha que você tenha dados de aceleração em um array chamado 'dados_aceleracao'
-# e a taxa de amostragem (frequência de amostragem) é conhecida em 'taxa_amostragem' (em Hz)
 
 # Frequência de amostragem em Hz
 taxa_amostragem = 2000  # Exemplo: amostragem a cada 1 milissegundo (1000 Hz)
